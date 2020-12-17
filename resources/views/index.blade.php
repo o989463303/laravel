@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Laravel</h1>
+    <h1>Laravel 1</h1>
     
 </body>
 </html>
